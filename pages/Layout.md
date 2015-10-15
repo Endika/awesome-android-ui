@@ -5,7 +5,6 @@ Name | License | Demo
 [WaveView](https://github.com/john990/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/waveview.gif" width="49%">
 [ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ResideLayout.gif" width="49%">
 [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AndroidSwipeLayout.gif" width="49%"> <img src="/art/AndroidSwipeLayout2.gif" width="49%">
-[FreeFlow](https://github.com/Comcast/FreeFlow) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FreeFlow.png" width="100%">
 [SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeBackLayout.webp" width="49%"> <img src="/art/SwipeBackLayout2.webp" width="49%">
 [Maskable Layout](https://github.com/christophesmet/android_maskable_layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android_maskable_layout.gif" width="49%">
 [ExpandableLayout](https://github.com/traex/ExpandableLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ExpandableLayout.gif" width="49%">
@@ -32,3 +31,5 @@ Name | License | Demo
 [FloatingView](https://github.com/recruit-lifestyle/FloatingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FloatingView.gif" width="49%">
 [FrenchToast](https://github.com/pyricau/frenchtoast) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/frenchtoast.gif" width="49%">
 [AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidSweetSheet.gif" width="100%">
+[FABRevealLayout](https://github.com/truizlop/FABRevealLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABRevealLayout.gif" width="49%">
+[ToggleExpandLayout](https://github.com/fenjuly/ToggleExpandLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ToggleExpandLayout.gif" width="49%">
